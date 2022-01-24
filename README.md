@@ -20,7 +20,7 @@
 
 ### Talk with me, I am kinda awesome:
 
-[<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://www.facebook.com/ahamedalex50/" />][Facebook]
+[<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://www.facebook.com/ahamedalex50/photos/a.103031025361954/194217649576624/?type=3&app=fbl/" />][Facebook]
 
 <br />
 
@@ -66,7 +66,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ahamed-Alex&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -74,19 +74,19 @@
 
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Alex's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamed-Alex" />
 
 </details>
 
-[website]: https://holistic-developer.com/
+[website]: https://ahamedalex50.wordpress.com/
 
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[youtube]: https://youtube.com/channel/UC7pTaD-jNVk4LmGMFSscs1g
 
-[instagram]: https://www.instagram.com/holistic_developer/
+[instagram]: https://www.instagram.com/ahamedalex50/
 
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[twitter]: https://twitter.com/ahamedalex50/
 
-[portfolio]: https://arsentieva.github.io/profile/
+
 
 
 
